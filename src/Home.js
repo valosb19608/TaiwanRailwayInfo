@@ -89,10 +89,9 @@ const Activities = () => {
           <Card className="col card m-3" style={{ width: '18rem' }}>
             <Card.Img variant="top" src="https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/40507615-4c28-4dd1-bb70-26e3344a65e1/360x270" />
             <Card.Body>
-              <Card.Title>Card Title</Card.Title>
+              <Card.Title>郵輪式列車 鐵道特色旅遊</Card.Title>
               <Card.Text>
-                Some quick example text to build on the card title and make up the bulk of
-                the card's content.
+                即日起凡老朋友再次購買此商品者，每人優惠200元/人(限佔床者)
               </Card.Text>
               <Button variant="primary">Go somewhere</Button>
             </Card.Body>
@@ -101,10 +100,9 @@ const Activities = () => {
           <Card className="col card m-3" style={{ width: '18rem' }}>
             <Card.Img variant="top" src="https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/f6a225d8-0e56-4de2-8b22-5f6d7b0b57b0/360x270" />
             <Card.Body>
-              <Card.Title>Card Title</Card.Title>
+              <Card.Title>新品上市</Card.Title>
               <Card.Text>
-                Some quick example text to build on the card title and make up the bulk of
-                the card's content.
+                2020臺鐵升級版316不鏽鋼方型便當盒8/22首款開賣
               </Card.Text>
               <Button variant="primary">Go somewhere</Button>
             </Card.Body>
@@ -113,10 +111,9 @@ const Activities = () => {
           <Card className="col card m-3" style={{ width: '18rem' }}>
             <Card.Img variant="top" src="https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/cf99fdf7-9031-484e-91cd-c50e76525719/360x270" />
             <Card.Body>
-              <Card.Title>Card Title</Card.Title>
+              <Card.Title>新品推薦-鳴日號運動毛巾</Card.Title>
               <Card.Text>
-                Some quick example text to build on the card title and make up the bulk of
-                the card's content.
+                健身族必備戶外活動實用款
               </Card.Text>
               <Button variant="primary">Go somewhere</Button>
             </Card.Body>
