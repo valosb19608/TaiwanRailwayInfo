@@ -49,7 +49,7 @@ const News = () => {
 
   const fetchData = () => {
     fetch(
-      'http://localhost:8080/getNews', {
+      'http://svc-tra-info-api:8080/getNews', {
         method: 'GET'
       }
     )

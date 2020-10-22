@@ -12,7 +12,6 @@ export default function App() {
     <div className="App">
         <Route path="/" exact component={Home} />
         <Route path="/Station" exact component={Station} />
-        <Route path="/StationExit" exact component={StationExit} />
     </div>
       
     </>

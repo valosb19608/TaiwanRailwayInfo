@@ -14,7 +14,7 @@ const StationInfo = () => {
 
     const fetchData = () => {
         fetch(
-        'http://localhost:8080/getStationInfo', {
+        'http://svc-tra-info-api:8080/getStationInfo', {
             method: 'GET'
         }
         )
