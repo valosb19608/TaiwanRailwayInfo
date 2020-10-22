@@ -49,7 +49,7 @@ const News = () => {
 
   const fetchData = () => {
     fetch(
-      'http://svc-tra-info-api:8080/getNews', {
+      'http://api.haoying.ngrok.io/getNews', {
         method: 'GET'
       }
     )

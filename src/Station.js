@@ -14,7 +14,7 @@ const StationInfo = () => {
 
     const fetchData = () => {
         fetch(
-        'http://svc-tra-info-api:8080/getStationInfo', {
+        'http://api.haoying.ngrok.io/getStationInfo', {
             method: 'GET'
         }
         )
